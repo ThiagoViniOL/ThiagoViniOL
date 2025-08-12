@@ -39,7 +39,12 @@ Aplicação interativa que exibe cards de Pokémons com:
 
 **Tecnologias:** HTML, CSS, JavaScript  
 
-![Preview Pokémon Project](https://raw.githubusercontent.com/ThiagoViniOL/ThiagoViniOL/main/preview.png)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThiagoViniOL/ThiagoViniOL/main/preview.png" 
+       alt="Preview Pokémon Project" 
+       width="600px" 
+       style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
+</p>
 
 ---
 
